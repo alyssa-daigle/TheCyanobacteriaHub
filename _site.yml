@@ -1,9 +1,17 @@
 name: "my-website"
 output_dir: "docs" 
 navbar:
-  title: "My Website"
+  title: "The Cyanobacteria Hub"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "General Information"
       href: about.html
+    - text: "Diversification"
+      href: diversification.html
+    - text: "Niche"
+      href: niche.html
+    - text: "cHABs"
+      href: chabs.html
+    - text: "Gallery"
+      href: gallery.html
