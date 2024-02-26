@@ -1,8 +1,15 @@
 ---
-title: "The Cyanobacteria Hub"
+title: <center> The Cyanobacteria Hub </center>
 ---
 
-Welcome to The Cyanobacteria Hub! On this website, you can find information about...
+<center>
+Welcome to The Cyanobacteria Hub!
+
+![](pictures/IMG_4900.jpeg){width="50%"}
+
+</center>
+
+On this website, you can find information about...
 
 <ul>
 
@@ -16,4 +23,3 @@ Welcome to The Cyanobacteria Hub! On this website, you can find information abou
 
 </ul>
 
-![](docs/IMG_4900.jpeg){width="50%"}

@@ -1,5 +1,3 @@
 ---
-title: "The Cyanobacteria Hub"
+title: <center> What are cyanobacteria? </center>
 ---
-
-More about this website.
